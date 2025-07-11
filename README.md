@@ -38,7 +38,7 @@ Aplicação que nos mostra uma lista de eventos a serem realizados e que nos per
    ```  
 5. Abra a app no seu dispositivo ou emulador usando o Expo Go.
 
-> **Observação:** Certifique-se que tem uma conta Firebase configurada e de atualize as configurações no arquivo `firebaseConfig.js`.
+> **Observação:** Certifique-se que tem uma conta Firebase configurada e de que atualiza as configurações no arquivo `firebaseConfig.js`.
 
 ## Como usar
 
