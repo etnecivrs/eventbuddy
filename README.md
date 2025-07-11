@@ -1,15 +1,15 @@
 
 # eventbuddy
 
-Aplicação que nos mostra uma lista de eventos a serem realizados nos próximos tempos e que nos permite adicioná-los a uma lista nossa de favoritos e marcá-los com a indicação de que vamos participar.
+Aplicação que nos mostra uma lista de eventos a serem realizados e que nos permite adicioná-los a uma lista de favoritos e marcá-los com a indicação de que vamos participar.
 
 ## Funcionalidades principais
 
-- Listagem de eventos futuros  
+- Lista de eventos futuros  
 - Visualização dos detalhes de cada evento  
 - Adicionar/remover eventos à lista de favoritos  
 - Marcar/desmarcar participação em eventos  
-- Login e autenticação de usuários  
+- Login e autenticação de utilizadores  
 
 ## Tecnologias usadas
 
@@ -18,7 +18,7 @@ Aplicação que nos mostra uma lista de eventos a serem realizados nos próximos
 - Firebase Firestore Database  
 - Expo  
 
-## Como instalar e rodar localmente
+## Como instalar e correr localmente
 
 1. Clone este repositório:  
    ```bash
@@ -32,20 +32,20 @@ Aplicação que nos mostra uma lista de eventos a serem realizados nos próximos
    ```bash
    npm install
    ```  
-4. Inicie o app com Expo:  
+4. Inicie a app com Expo:  
    ```bash
-   npm start
+   npm start Expo
    ```  
-5. Abra o app no seu dispositivo ou emulador usando o Expo Go.
+5. Abra a app no seu dispositivo ou emulador usando o Expo Go.
 
-> **Observação:** Certifique-se de ter uma conta Firebase configurada e de atualizar as configurações no arquivo `firebaseConfig.js`.
+> **Observação:** Certifique-se que tem uma conta Firebase configurada e de atualize as configurações no arquivo `firebaseConfig.js`.
 
 ## Como usar
 
-- Navegue pela lista de eventos na tela inicial.  
-- Clique em um evento para ver detalhes.  
-- Use os botões para adicionar aos favoritos ou marcar sua participação.  
-- Acesse seus eventos favoritos na aba de favoritos.
+- Navegue pela lista de eventos na página inicial.  
+- Clique num evento para ver detalhes.  
+- Use os botões para adicionar aos favoritos ou marcar a sua participação.  
+- Aceda aos seus eventos favoritos na aba de favoritos.
 
 ## Contato
 
